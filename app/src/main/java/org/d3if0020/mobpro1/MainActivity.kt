@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     Greeting("\n Nama : Azka Faris Akbar \n " +
-                            "kelas : D3IF - 46 - 03 \n " +
+                            " kelas : D3IF - 46 - 03 \n " +
                             "Nim : 6706220020")
                 }
             }
